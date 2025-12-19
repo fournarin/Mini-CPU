@@ -34,10 +34,9 @@ A custom 8-bit CPU architecture designed and simulated using **Digital** softwar
 4. Load the test program into the pRAM component.
 5. Start the simulation.
 
-## 👥 Contributors
-- [Your Name]
-- [Teammate 1 Name] (Optional)
-- [Teammate 2 Name] (Optional)
-
 ---
+<<<<<<< HEAD
 *Developed for CEDT Final Project 2568.*
+=======
+*Developed for CEDT Final Project 2568.*
+>>>>>>> f1aa82895db537c5fbd62127a71adb736caacc86
