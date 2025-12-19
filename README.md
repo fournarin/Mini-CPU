@@ -33,10 +33,3 @@ A custom 8-bit CPU architecture designed and simulated using **Digital** softwar
 3. Open `src/main_cpu.dig` (or your main file name) in Digital.
 4. Load the test program into the pRAM component.
 5. Start the simulation.
-
----
-<<<<<<< HEAD
-*Developed for CEDT Final Project 2568.*
-=======
-*Developed for CEDT Final Project 2568.*
->>>>>>> f1aa82895db537c5fbd62127a71adb736caacc86
